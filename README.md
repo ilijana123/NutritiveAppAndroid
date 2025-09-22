@@ -32,3 +32,6 @@ Domain Layer → Use cases (business logic)
 Data Layer → Repositories + Retrofit API services
 
 Dependency Injection → Hilt modules provide dependencies across layers
+
+https://github.com/user-attachments/assets/00452331-ca7b-4d4a-aebc-63190c38927f
+
