@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NutritiveApp</string>
+    <string name="app_logo">App Logo</string>
+    <string name="scan_healthy">Scan healthy\n</string>
+    <string name="description">Your food, your health — in one scan</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign up</string>
+    <string name="have_account">Already have an account?</string>
+    <string name="sign_in">Sign in\n</string>
+</resources>

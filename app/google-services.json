@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "215405667819",
+    "project_id": "nutritiveapp",
+    "storage_bucket": "nutritiveapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215405667819:android:fb0594fa99b080772425ae",
+        "android_client_info": {
+          "package_name": "com.example.nutritiveapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkNK974Z3fWj-wcCyFsUNBQLxwzUTvuaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
